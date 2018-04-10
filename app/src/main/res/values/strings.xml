@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Listview</string>
+    <string name="app_name">List view</string>
     <string name="Registro">Registrar</string>
     <string name="Cedula">Cedula</string>
     <string name="Nombre">Nombre</string>
@@ -7,4 +7,11 @@
     <string name="Borrar">Borrar</string>
     <string name="Guardar">Guardar</string>
     <string name="numero">No.</string>
+    <string name="mensaje_guardado">Persona Guardada Exitasamente</string>
+    <string name="registrar">Registrar</string>
+    <string name="listar">Listar</string>
+    <string-array name="opciones">
+        <item>@string/registrar</item>
+        <item>@string/listar</item>
+    </string-array>
 </resources>
