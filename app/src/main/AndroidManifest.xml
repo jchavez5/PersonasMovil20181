@@ -16,6 +16,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".listar" />
+        <activity android:name=".registar"></activity>
     </application>
 
 </manifest>

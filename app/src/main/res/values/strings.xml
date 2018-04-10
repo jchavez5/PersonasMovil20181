@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Listview</string>
+    <string name="Registro">Registrar</string>
+    <string name="Cedula">Cedula</string>
+    <string name="Nombre">Nombre</string>
+    <string name="Apellido">Apellido</string>
+    <string name="Borrar">Borrar</string>
+    <string name="Guardar">Guardar</string>
 </resources>
